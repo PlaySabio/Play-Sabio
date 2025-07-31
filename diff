@@ -1,33 +1,54 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <title>PlaySabio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      padding: 40px;
-      background-color: #f9f9f9;
-    }
-    h1 {
-      color: #333;
-    }
-    img {
-      max-width: 300px;
-      margin: 20px auto;
-    }
-    p {
-      font-size: 18px;
-      color: #555;
-      max-width: 600px;
-      margin: auto;
-    }
-  </style>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Free Fire Diamantes Gratis</title>
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    background: #111;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background: #222;
+    padding: 20px;
+    text-align: center;
+  }
+  header h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: #ffcc00;
+  }
+  .content {
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 0 20px;
+  }
+  .btn {
+    display: inline-block;
+    background: #ffcc00;
+    color: #111;
+    padding: 12px 25px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  .btn:hover {
+    background: #e6b800;
+  }
+</style>
 </head>
 <body>
-  <h1>Bienvenido a PlaySabio</h1>
-  <img src="https://via.placeholder.com/300" alt="Imagen de portada">
-  <p>En esta web encontrarás guías y trucos para tus juegos favoritos, además de recomendaciones de entretenimiento. Todo hecho con pasión por el mundo gamer.</p>
+  <header>
+    <h1>Free Fire Diamantes Gratis</h1>
+  </header>
+  <section class="content">
+    <p>¿Querés diamantes gratis en Free Fire? ¡Estás en el lugar indicado! Sigue los pasos y consigue tu recompensa.</p>
+    <a href="#" class="btn">Comenzar ahora</a>
+  </section>
 </body>
 </html>
