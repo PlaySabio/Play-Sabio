@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>PlaySabio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      color: #333;
+    }
+    img {
+      max-width: 300px;
+      margin: 20px auto;
+    }
+    p {
+      font-size: 18px;
+      color: #555;
+      max-width: 600px;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenido a PlaySabio</h1>
+  <img src="https://via.placeholder.com/300" alt="Imagen de portada">
+  <p>En esta web encontrarás guías y trucos para tus juegos favoritos, además de recomendaciones de entretenimiento. Todo hecho con pasión por el mundo gamer.</p>
+</body>
+</html>
